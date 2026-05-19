@@ -9,7 +9,6 @@ A simple event registration webpage created while learning HTML and CSS.
 
 ## Technologies Used
 - HTML
-- CSS
 
 ## Author
 Zainab Imran
